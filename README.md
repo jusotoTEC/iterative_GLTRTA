@@ -1,4 +1,4 @@
-# MATLAB Code from Numerical Experiments in Paper *"A modified proximal point algorithm for solving a generalized low-tubal-rank tensor approximation problem based on the $T$-product"*
+# MATLAB Code from Numerical Experiments in Paper *"A modified proximal point algorithm for solving a generalized low-tubal-rank tensor approximation problem based on the t-product"*
 
 ## Author
 
