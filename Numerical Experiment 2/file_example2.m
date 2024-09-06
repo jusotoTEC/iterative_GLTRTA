@@ -3,7 +3,7 @@
 % Reference:
 %   Paper   = A modified proximal point algorithm for solving a generalized 
 %             low-tubal-rank tensor approximation problem based on the t-product
-%   Author = Soto-Quiros
+%   Author = Soto-Quiros, Pablo
 
 clc; clear; close all
 
