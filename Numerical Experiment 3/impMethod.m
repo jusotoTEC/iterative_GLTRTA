@@ -1,4 +1,4 @@
-function Z=glrma(A,C,r)
+function Z=impMethod(A,C,r)
     Cp=pinv(C);
     T=A*Cp*C;
     [U,S,V]=svd(T);
