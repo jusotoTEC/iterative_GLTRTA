@@ -1,4 +1,4 @@
-function main_file()
+function file_example3()
 
     % Numerical Experiment 4
     
