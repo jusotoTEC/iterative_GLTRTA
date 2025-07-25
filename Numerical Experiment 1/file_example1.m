@@ -1,7 +1,7 @@
 % Numerical Experiment 1
 
 % Reference:
-%   Paper   = "A modified proximal point algorithm for solving a 
+%   Paper   = "A proximal Gauss-Seidel algorithm for solving a  
 %              generalized low-tubal-rank tensor approximation problem 
 %              based on the t-product"
 %   Author = Soto-Quiros, Pablo (jusoto@tec.ac.cr)
